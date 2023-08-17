@@ -1,0 +1,6 @@
+001adc8775ec175eade1432a91e70ba9,/Applications/Adobe Acrobat Reader.app/Contents/Resources/hu.lproj/IDTemplates/DefaultID.pdf
+001adc8775ec175eade1432a91e70ba9,/System/Volumes/Data/Applications/Adobe Acrobat Reader.app/Contents/Resources/hu.lproj/IDTemplates/DefaultID.pdf
+008a048878aa37b5230d4df9dfd20bd0,/Applications/Numbers.app/Contents/Resources/ImageBullets/bullet_p_period-brn.pdf
+008a048878aa37b5230d4df9dfd20bd0,/Applications/Numbers.app/Contents/SharedSupport/DocumentResources/38/cda4b4ac080e049c99b86f6af41c490f5ef7f1.pdf
+0180dae018a96b9b0487d3fcecbe011f,/System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/ImageKit.framework/Versions/A/Resources/ik-disclosure-closed.pdf
+

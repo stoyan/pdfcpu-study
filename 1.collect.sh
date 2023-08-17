@@ -1,0 +1,1 @@
+find / -type f -name "*.pdf" > pdf_paths.txt
